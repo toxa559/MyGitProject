@@ -1,7 +1,8 @@
-package com.shchipanovanton.mygitproject
+package com.shchipanovanton.mygitproject.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.shchipanovanton.mygitproject.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
